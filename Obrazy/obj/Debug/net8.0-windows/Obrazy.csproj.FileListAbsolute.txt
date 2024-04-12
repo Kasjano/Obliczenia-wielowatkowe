@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\bin\Debug\net8.0-windows\Obrazy.exe
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\bin\Debug\net8.0-windows\Obrazy.deps.json
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\bin\Debug\net8.0-windows\Obrazy.runtimeconfig.json
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\bin\Debug\net8.0-windows\Obrazy.dll
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\bin\Debug\net8.0-windows\Obrazy.pdb
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\obj\Debug\net8.0-windows\Obrazy.Form1.resources
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\obj\Debug\net8.0-windows\Obrazy.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\obj\Debug\net8.0-windows\Obrazy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\obj\Debug\net8.0-windows\Obrazy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\obj\Debug\net8.0-windows\Obrazy.AssemblyInfo.cs
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\obj\Debug\net8.0-windows\Obrazy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\obj\Debug\net8.0-windows\Obrazy.dll
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\obj\Debug\net8.0-windows\refint\Obrazy.dll
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\obj\Debug\net8.0-windows\Obrazy.pdb
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\obj\Debug\net8.0-windows\Obrazy.genruntimeconfig.cache
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Obrazy\obj\Debug\net8.0-windows\ref\Obrazy.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\bin\Release\net8.0\Wątki.exe
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\bin\Release\net8.0\Wątki.deps.json
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\bin\Release\net8.0\Wątki.runtimeconfig.json
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\bin\Release\net8.0\Wątki.dll
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\bin\Release\net8.0\Wątki.pdb
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\obj\Release\net8.0\Wątki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\obj\Release\net8.0\Wątki.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\obj\Release\net8.0\Wątki.AssemblyInfo.cs
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\obj\Release\net8.0\Wątki.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\obj\Release\net8.0\Wątki.dll
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\obj\Release\net8.0\refint\Wątki.dll
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\obj\Release\net8.0\Wątki.pdb
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\obj\Release\net8.0\Wątki.genruntimeconfig.cache
+C:\Users\Admin\Desktop\programy\.NET\Macierze\Wątki\obj\Release\net8.0\ref\Wątki.dll

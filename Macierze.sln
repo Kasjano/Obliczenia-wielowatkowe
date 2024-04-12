@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wątki", "Wątki\Wątki.csproj", "{0555D3D3-4074-49BC-A93B-C03EDC31F4FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obrazy", "Obrazy\Obrazy.csproj", "{AA1D5B45-456D-406D-AA7E-C8744B4AFC98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0555D3D3-4074-49BC-A93B-C03EDC31F4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0555D3D3-4074-49BC-A93B-C03EDC31F4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0555D3D3-4074-49BC-A93B-C03EDC31F4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0555D3D3-4074-49BC-A93B-C03EDC31F4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1D5B45-456D-406D-AA7E-C8744B4AFC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1D5B45-456D-406D-AA7E-C8744B4AFC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1D5B45-456D-406D-AA7E-C8744B4AFC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1D5B45-456D-406D-AA7E-C8744B4AFC98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D98F747F-98DA-4D8E-91E0-EE5A1B5092D2}
+	EndGlobalSection
+EndGlobal
